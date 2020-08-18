@@ -17,8 +17,8 @@ require 'pry'
           steals:3,
           blocks:1,
           slam_dunks:1
-          
         },
+        {
         players_name:"Reggie Evans",
           number:30,
           shoe:14,
@@ -29,6 +29,7 @@ require 'pry'
           blocks:12,
           slam_dunks:7
         },
+        {
         players_name:"Brook Lopez",
           number:11,
           shoe:17,
@@ -39,6 +40,7 @@ require 'pry'
           blocks:1,
           slam_dunks:15
         },
+        {
         players_name:"Mason Plumlee",
           number:1,
           shoe:19,
@@ -49,6 +51,7 @@ require 'pry'
           blocks:8,
           slam_dunks:5
         },
+        {
         players_name:"Jason Terry",
           number:31,
           shoe:15,
