@@ -64,10 +64,10 @@ require 'pry'
         }
       ]
     },
-  :away => {
-      :team_name => "Charlotte Hornets",
-      :colors => ["Turquoise", "Purple"],
-      :players =>[
+  :away: => {
+      :team_name: => "Charlotte Hornets",
+      :colors: => ["Turquoise", "Purple"],
+      :players: =>[
          {
         players_name:"Jeff Adrien",
             number: 4,
