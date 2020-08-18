@@ -7,7 +7,7 @@ require 'pry'
       :team_name => "Brooklyn Nets",
       :colors => ["Black", "White"],
       :players => {
-          players_name:"Alan Anderson" {  
+          players_name:"Alan Anderson",  
           number: 0,
           shoe:16,
           points:22,
@@ -18,7 +18,7 @@ require 'pry'
           slam_dunks:1
           
         },
-        players_name:"Reggie Evans" => {
+        players_name:"Reggie Evans",
           number:30,
           shoe:14,
           points:12,
@@ -28,7 +28,7 @@ require 'pry'
           blocks:12,
           slam_dunks:7
         },
-        players_name:"Brook Lopez" => {
+        players_name:"Brook Lopez",
           number:11,
           shoe:17,
           points:17,
@@ -38,7 +38,7 @@ require 'pry'
           blocks:1,
           slam_dunks:15
         },
-        players_name:"Mason Plumlee" => {
+        players_name:"Mason Plumlee",
           number:1,
           shoe:19,
           points:26,
@@ -48,7 +48,7 @@ require 'pry'
           blocks:8,
           slam_dunks:5
         },
-        players_name:"Jason Terry" => {
+        players_name:"Jason Terry",
           number:31,
           shoe:15,
           points:19,
@@ -63,7 +63,7 @@ require 'pry'
       :team_name => "Charlotte Hornets",
       :colors => ["Turquoise", "Purple"],
       :players => {
-        players_name:"Jeff Adrien" => {
+        players_name:"Jeff Adrien",
             number: 4,
             shoe: 18,
             points: 10,
@@ -73,7 +73,7 @@ require 'pry'
             blocks: 7,
             slam_dunks: 2
         },
-        players_name:"Bismak Biyombo" => {
+        players_name:"Bismak Biyombo",
             number: 0,
             shoe: 16,
             points: 12,
@@ -83,7 +83,7 @@ require 'pry'
             blocks: 15,
             slam_dunks: 10
         },
-        players_name:"DeSagna Diop" => {
+        players_name:"DeSagna Diop",
             number: 2,
             shoe: 14,
             points: 24,
@@ -93,7 +93,7 @@ require 'pry'
             blocks: 5,
             slam_dunks: 5
         },
-        players_name:"Ben Gordon" => {
+        players_name:"Ben Gordon",
             number: 8,
             shoe: 15,
             points: 33,
@@ -103,7 +103,7 @@ require 'pry'
             blocks: 1,
             slam_dunks: 0
         },
-        players_name:"Brendan Haywood" => {
+        players_name:"Brendan Haywood",
             number: 33,
             shoe: 15,
             points: 6,
