@@ -115,6 +115,7 @@ require 'pry'
             blocks: 5,
             slam_dunks: 12
         }
+        }
       }
     }
   }
