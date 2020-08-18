@@ -93,6 +93,7 @@ require 'pry'
             blocks: 5,
             slam_dunks: 5
         },
+        {
         players_name:"Ben Gordon",
             number: 8,
             shoe: 15,
@@ -103,6 +104,7 @@ require 'pry'
             blocks: 1,
             slam_dunks: 0
         },
+        {
         players_name:"Brendan Haywood",
             number: 33,
             shoe: 15,
