@@ -124,7 +124,7 @@ require 'pry'
             slam_dunks: 12
         }
 
-        }
+        
       ]
     }
   }
