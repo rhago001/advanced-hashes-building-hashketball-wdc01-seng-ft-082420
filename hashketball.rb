@@ -62,7 +62,8 @@ require 'pry'
           blocks:11,
           slam_dunk:1
         }
-}},
+      ]
+    },
 :away => {
       :team_name => "Charlotte Hornets",
       :colors => ["Turquoise", "Purple"],
