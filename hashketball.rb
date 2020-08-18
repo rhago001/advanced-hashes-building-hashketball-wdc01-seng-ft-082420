@@ -7,7 +7,7 @@ require 'pry'
       :team_name => "Brooklyn Nets",
       :colors => ["Black", "White"],
       :players => {
-          players_name:"Alan Anderson"=> {  
+          players_name:"Alan Anderson" {  
           number: 0,
           shoe:16,
           points:22,
