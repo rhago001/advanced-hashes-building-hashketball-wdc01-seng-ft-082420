@@ -67,7 +67,8 @@ require 'pry'
 :away => {
       :team_name => "Charlotte Hornets",
       :colors => ["Turquoise", "Purple"],
-      :players => {
+      :players =>[
+         {
         players_name:"Jeff Adrien",
             number: 4,
             shoe: 18,
@@ -77,7 +78,8 @@ require 'pry'
             steals: 2,
             blocks: 7,
             slam_dunks: 2
-        },
+          },
+          {
         players_name:"Bismak Biyombo",
             number: 0,
             shoe: 16,
@@ -88,6 +90,7 @@ require 'pry'
             blocks: 15,
             slam_dunks: 10
         },
+        {
         players_name:"DeSagna Diop",
             number: 2,
             shoe: 14,
@@ -120,8 +123,9 @@ require 'pry'
             blocks: 5,
             slam_dunks: 12
         }
+
         }
-      }
+      ]
     }
   }
 end
