@@ -6,7 +6,7 @@ require 'pry'
     :home => {
       :team_name => "Brooklyn Nets",
       :colors => ["Black", "White"],
-      :players_name => {
+      :players => {
         "Alan Anderson"=> {  
           number: 0,
           shoe:16,
@@ -25,8 +25,8 @@ require 'pry'
           rebounds:12,
           assists:12,      
           steals:12,
-          blocks:1,
-          slam_dunks:1
+          blocks:12,
+          slam_dunks:7
         },
         "Brook Lopez" => {
           number:11,
